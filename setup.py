@@ -19,7 +19,7 @@ VERSION = "1.0.0"
 
 REQUIRES = [
     "attrs>=21.3.0",
-    "httpx>=0.15.4,<0.24.0",
+    "httpx>=0.15.4,<0.26.0",
     "pdf2image",
     "pillow",
     "python-dateutil~=2.8.1",
